@@ -1,0 +1,14 @@
+C:\Users\Qarib\Desktop\c#\HomeTaks03.4\bin\Debug\net6.0\HomeTaks03.4.exe
+C:\Users\Qarib\Desktop\c#\HomeTaks03.4\bin\Debug\net6.0\HomeTaks03.4.deps.json
+C:\Users\Qarib\Desktop\c#\HomeTaks03.4\bin\Debug\net6.0\HomeTaks03.4.runtimeconfig.json
+C:\Users\Qarib\Desktop\c#\HomeTaks03.4\bin\Debug\net6.0\HomeTaks03.4.dll
+C:\Users\Qarib\Desktop\c#\HomeTaks03.4\bin\Debug\net6.0\HomeTaks03.4.pdb
+C:\Users\Qarib\Desktop\c#\HomeTaks03.4\obj\Debug\net6.0\HomeTaks03.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qarib\Desktop\c#\HomeTaks03.4\obj\Debug\net6.0\HomeTaks03.4.AssemblyInfoInputs.cache
+C:\Users\Qarib\Desktop\c#\HomeTaks03.4\obj\Debug\net6.0\HomeTaks03.4.AssemblyInfo.cs
+C:\Users\Qarib\Desktop\c#\HomeTaks03.4\obj\Debug\net6.0\HomeTaks03.4.csproj.CoreCompileInputs.cache
+C:\Users\Qarib\Desktop\c#\HomeTaks03.4\obj\Debug\net6.0\HomeTaks03.4.dll
+C:\Users\Qarib\Desktop\c#\HomeTaks03.4\obj\Debug\net6.0\refint\HomeTaks03.4.dll
+C:\Users\Qarib\Desktop\c#\HomeTaks03.4\obj\Debug\net6.0\HomeTaks03.4.pdb
+C:\Users\Qarib\Desktop\c#\HomeTaks03.4\obj\Debug\net6.0\HomeTaks03.4.genruntimeconfig.cache
+C:\Users\Qarib\Desktop\c#\HomeTaks03.4\obj\Debug\net6.0\ref\HomeTaks03.4.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTaks03.4", "HomeTaks03.4.csproj", "{FDBD6928-8032-4E4F-8621-5AD229532B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBD6928-8032-4E4F-8621-5AD229532B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBD6928-8032-4E4F-8621-5AD229532B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBD6928-8032-4E4F-8621-5AD229532B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBD6928-8032-4E4F-8621-5AD229532B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0E77A1C-6ABA-445B-ABC8-B5EFFACE89CC}
+	EndGlobalSection
+EndGlobal
